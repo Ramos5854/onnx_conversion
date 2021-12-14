@@ -1,0 +1,9 @@
+I have moved all ONNX related items (git downloads) to the following:
+
+E:\Desktop\Code_717\ONNX
+
+When using ONNX or installing git packages, make sure to navigate to this location via:
+
+e:
+cd E:\Desktop\Code_717\ONNX
+
